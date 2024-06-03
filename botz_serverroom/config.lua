@@ -236,7 +236,7 @@ Config.Final_location = {
         }
 }
 
-Config.DiscordWebhook = 'https://discord.com/api/webhooks/1205005555253387314/KIe9kjmUNJpRDQdiIdM8Hrm4jqdNd_fkW7x0XU75SW77b0Uy-yZ4r--25W9hogTTe9cd'
+Config.DiscordWebhook = '' --Add your webhook
 Config.icon_url = 'https://cdn.discordapp.com/attachments/1112335008678563960/1112383696771756113/1.png'
 Config.Webhooks = {
     Locale = {
