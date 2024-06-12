@@ -37,8 +37,8 @@ I am new to scripting, so if there are any optimizations or potential exploits t
 
 Requirements:
 
-es_extended: https://github.com/esx-framework
-OX_LIB: https://github.com/overextended/ox_lib
-ox_inventory: https://github.com/overextended/ox_inventory 
-ran minigames: https://github.com/RanDXDev/ran-minigames
+- es_extended: https://github.com/esx-framework
+- ox_lib: https://github.com/overextended/ox_lib
+- ox_inventory: https://github.com/overextended/ox_inventory 
+- ran-minigames: https://github.com/RanDXDev/ran-minigames
 
